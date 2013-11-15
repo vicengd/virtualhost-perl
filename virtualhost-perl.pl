@@ -16,7 +16,7 @@ $crea_apache="si";
 $ip="IP_AQUI";
 /var/www/html
 #Ruta al directorio de nuestra web
-$path_dominio = "$path_dominio";
+$path_dominio = "/var/www/html";
 
 if ($crea_user eq "si") {
 
