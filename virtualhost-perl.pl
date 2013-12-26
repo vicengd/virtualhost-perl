@@ -14,7 +14,6 @@ $crea_apache="si";
 
 #La IP de nuestro servidor
 $ip="IP_AQUI";
-/var/www/html
 #Ruta al directorio de nuestra web
 $path_dominio = "/var/www/html";
 
